@@ -62,44 +62,36 @@
 						<li class="header-menu">
                             <span>Products</span>
                         </li>
+
 						<li class="sidebar-dropdown">
 							<a href="#">
-								<i class="fa fa-tachometer-alt"></i>
-								<span>Accesorii</span>
+								<i class="fa fa-female"></i>
+								<span>FEMEI</span>
 							</a>
 							<div class="sidebar-submenu">
 								<ul>
 									<li>
-										<a href="#">Barbati</a>
+										<a href="#">Accesorii</a>
 									</li>
 									<li>
-										<a href="#">Femei</a>
-									</li>
-								</ul>
-							</div>
-						</li>
-						<li class="sidebar-dropdown">
-							<a href="#">
-								<i class="fa fa-tachometer-alt"></i>
-								<span>Cosmetice</span>
-							</a>
-							<div class="sidebar-submenu">
-								<ul>
-									<li>
-										<a href="#">Femei</a>
+										<a href="#">Cosmetice</a>
 									</li>
 								</ul>
 							</div>
 						</li>
+
 						<li class="sidebar-dropdown">
 							<a href="#">
-								<i class="fa fa-tachometer-alt"></i>
-								<span>Incaltaminte</span>
+								<i class="fa fa-male"></i>
+								<span>BĂRBAȚI</span>
 							</a>
 							<div class="sidebar-submenu">
 								<ul>
 									<li>
-										<a href="#">Barbati</a>
+										<a href="#">Accesorii</a>
+									</li>
+									<li>
+										<a href="#">Încălțăminte</a>
 									</li>
 								</ul>
 							</div>
