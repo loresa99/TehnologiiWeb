@@ -1,1 +1,1 @@
-//php cu img din bootstrap.
+//php cu img din bootstrap..
